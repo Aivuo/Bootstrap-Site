@@ -1,5 +1,9 @@
 /* custom.css */
 
 body{
-    padding-top: 60px;
+    padding-top: 80px;
+}
+
+#leftAside, #rightAside{
+    padding-top: 42px;
 }
